@@ -48,12 +48,14 @@
  *
  * Options
  * -------
- * 1: de-DE:     german
- * 2: de-DE_alt: german alternative
+ * 1: de-DE:          german
+ * 2: de-DE_alt:      german alternative
+ * 3: de-SCHAEBISCH:  german swabian dialect
  */
 #ifndef GRID_LANGUAGE
   #define GRID_LANGUAGE de_DE
 //#define GRID_LANGUAGE de_DE_alt
+//#define GRID_LANGUAGE de_SCHWAEBISCH
 #endif
 
 /* Position of single minute LEDs

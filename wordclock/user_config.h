@@ -30,8 +30,9 @@
  *  
  * Options
  * -------
- * 1: de_DE:     german
- * 2: de_DE_alt: german alternative
+ * 1: de_DE:          german
+ * 2: de_DE_alt:      german alternative
+ * 3: de_SCHWAEBISCH: german swabian dialect
  */
 #define GRID_LANGUAGE de_DE
 
